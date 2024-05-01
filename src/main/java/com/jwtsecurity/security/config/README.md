@@ -1,6 +1,7 @@
 This project shoes the implementation of security using Spring Boot and JSON Web Tokens (JWT).
 
 Features
+
 		User registration and login with JWT authentication
 		Password encryption using BCrypt
 		Role-based authorization with Spring Security
