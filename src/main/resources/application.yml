@@ -3,8 +3,8 @@ spring:
     port: 8082
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
-    username: postgres
-    password: Durga@10121997
+    username: yourusername
+    password: yourpassword
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
